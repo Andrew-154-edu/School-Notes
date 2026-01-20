@@ -9,25 +9,7 @@
 </head>
 
 <body class="stackedit">
-  <div class="stackedit__html">
-
-
-  
-  
-  <title>Things-todo</title>
-  
-
-
-  <div class="stackedit__html"><h1 id="things-to-do">Things to-do</h1>
-<ul>
-<li class="task-list-item"> complete STEM</li>
-<li class="task-list-item"> Talk to Bordner</li>
-<li>[ ]</li>
-</ul>
-</div>
-
-
-</div>
+  <div class="stackedit__html"></div>
 </body>
 
 </html>
